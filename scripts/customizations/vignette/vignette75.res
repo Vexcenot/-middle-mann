@@ -1,4 +1,4 @@
-"Scripts/Customizations/Vignette.res"
+"scripts/customizations/vignette.res"
 {
 		"Vignette"
 	{

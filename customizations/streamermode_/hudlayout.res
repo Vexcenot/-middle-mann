@@ -1,4 +1,4 @@
-"Scripts/HudLayout.res"
+"scripts/hudlayout.res"
 {
 	"HudDeathNotice"
 	{

@@ -1,4 +1,4 @@
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	"CpIconPreloadPanel"
 	{
@@ -1265,7 +1265,7 @@
 		}
 	}
 }
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	"CpIconPreloadPanel"
 	{

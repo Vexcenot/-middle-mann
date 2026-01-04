@@ -1,5 +1,5 @@
 // half-assed bandaid fix for controllers 
-"Resource/UI/HudMenuTauntSelection.res"
+"resource/ui/hudmenutauntselection.res"
 {
 	"MainBackground"	
 	{

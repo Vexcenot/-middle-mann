@@ -1,4 +1,4 @@
-"Resource/UI/HudArenaWinPanel.res"
+"resource/ui/hudarenawinpanel.res"
 {
 	"ArenaWinPanelWinnersPanel"
 	{

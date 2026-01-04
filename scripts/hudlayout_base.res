@@ -1,4 +1,4 @@
-"Resource/HudLayout.res"
+"resource/hudlayout.res"
 {
 	"HudPlayerStatus"
 	{
@@ -256,7 +256,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"xpos"				"c-126"
-		"ypos"				"307"
+		"ypos"				"277"
 		"wide"				"252"
 		"tall"				"35"
 		"tall_minbad"		"28"

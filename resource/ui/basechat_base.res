@@ -1,5 +1,5 @@
 
-"Resource/UI/BaseChat.res"
+"resource/ui/basechat.res"
 {
 	"HudChat"
 	{

@@ -1,5 +1,5 @@
 //this da shit
-"Resource/UI/HudAmmoWeapons_side.res"
+"resource/ui/hudammoweapons_side.res"
 {
 	"HudWeaponAmmoBG"
 	{

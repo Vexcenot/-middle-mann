@@ -1,5 +1,5 @@
 //this da shit
-"Resource/UI/HudAmmoWeapons.res"
+"resource/ui/hudammoweapons.res"
 {
 	"HudWeaponLowAmmoImage"
 	{

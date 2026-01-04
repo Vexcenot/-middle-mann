@@ -1,5 +1,5 @@
 //this da shit
-"Resource/UI/HudSpellSelection.res"
+"resource/ui/hudspellselection.res"
 {		
 	HudSpellMenu
 	{

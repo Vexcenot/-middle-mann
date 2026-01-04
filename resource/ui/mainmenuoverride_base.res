@@ -1,5 +1,5 @@
 // used for preloading custom icons and whatnot
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	MainMenuOverride
 	{
@@ -2292,7 +2292,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
-		"command"		"engine showconsole; clear; echo middle mann v23.1.1; echo last updated: 30/03/25" //mostly used for bug reporting, remind self to update this string after every release
+		"command"		"engine showconsole; clear; echo middle mann v25.0; echo last updated: 04/01/26" //mostly used for bug reporting, remind self to update this string after every release
 		"labeltext"		"Console"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

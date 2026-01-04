@@ -1,4 +1,4 @@
-"Scripts/hudlayout.res"
+"scripts/hudlayout.res"
 {
 	HudCloseCaption
 	{
