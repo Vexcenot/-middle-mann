@@ -1,4 +1,4 @@
-"Resource/UI/WaveStatusPanel.res" // controls mvm-specific tidbits, mostly created to disable backgrounds though. -techno
+"resource/ui/wavestatuspanel.res" // controls mvm-specific tidbits, mostly created to disable backgrounds though. -techno
 {
 	"Background"
 	{

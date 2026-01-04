@@ -1,4 +1,4 @@
-"Scripts/Customizations/TransparentViewmodels.res"
+"scripts/customizations/transparentviewmodels.res"
 {
 	"TransparentViewmodelMask"
 	{

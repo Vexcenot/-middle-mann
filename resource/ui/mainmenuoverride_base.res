@@ -1,5 +1,5 @@
 // used for preloading custom icons and whatnot
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	MainMenuOverride
 	{

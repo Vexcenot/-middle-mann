@@ -1,6 +1,6 @@
 #base "huditemeffectmeter_demoman.res"
 
-"Resource/UI/HudItemEffectMeter_spy.res"
+"resource/ui/huditemeffectmeter_spy.res"
 {
     HudItemEffectMeter
     {

@@ -816,7 +816,7 @@ Scheme
 
 	CustomFontFiles
 	{
-		"1"		"resource/HALFLIFE2.ttf"
-		"2"		"resource/HL2EP2.ttf"
+		"1"		"resource/halflife2.ttf"
+		"2"		"resource/hl2ep2.ttf"
 	}
 }

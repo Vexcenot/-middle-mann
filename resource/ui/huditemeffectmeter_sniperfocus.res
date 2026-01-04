@@ -1,5 +1,5 @@
 #base "huditemeffectmeter_sodapopper.res"
-"Resource/UI/HudItemEffectMeter_sniperfocus.res"
+"resource/ui/huditemeffectmeter_sniperfocus.res"
 {
     HudItemEffectMeter
     {

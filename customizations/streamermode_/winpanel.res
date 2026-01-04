@@ -1,4 +1,4 @@
-"Resource/UI/WinPanel.res"
+"resource/ui/winpanel.res"
 {
 	"Player1Avatar"
 	{

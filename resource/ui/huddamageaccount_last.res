@@ -1,4 +1,4 @@
-"Resource/UI/HudDamageAccount_last.res"
+"resource/ui/huddamageaccount_last.res"
 {
 	"DamageAccountValue"
 	{
