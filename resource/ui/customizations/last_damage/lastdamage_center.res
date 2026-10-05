@@ -20,7 +20,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"DamageAccountValueShadow"
 		"xpos"					"-2"
-		"ypos"					"-1"
+		"ypos"					"-2"
 		"zpos"					"1"
 		"visible"				"1"
 		"enabled"				"1"
