@@ -67,12 +67,12 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 	}
-	"ReinforcementsLabel"
+	"ReinforcementsLabel" //respawn time
 	{
 		"ControlName"				"CExLabel"
 		"proportionaltoparent" "1"
 		"xpos"						"cs-0.5"		
-		"ypos"						"cs-5"		
+		"ypos"						"cs-6.5"		
 		"wide"						"300"		
 		"tall"						"28"
 		"autoResize"				"0"
