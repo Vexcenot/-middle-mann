@@ -187,7 +187,7 @@
 	"CHealthAccountPanel"
 	{
 		"fieldName"		"CHealthAccountPanel"
-		"xpos"			"c-23"
+		"xpos"			"c-15"
 		"ypos"			"c-90"
 		"wide"			"116"
 		"tall"			"180"
@@ -425,7 +425,7 @@
 		"LineSpacing"					"4"
 		"CornerRadius"					"3"
 		"RightJustify"					"1"
-		"TextFont"						"Default"
+		"TextFont"						"DefaultTF2Build"
 		"TeamBlue"						"HUDBlueTeamSolid"
 		"TeamRed"						"HUDRedTeamSolid"
 		"PurpleText"					"134 80 172 255"

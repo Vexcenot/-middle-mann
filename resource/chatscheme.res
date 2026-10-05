@@ -350,43 +350,48 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Build"
-				"tall"			"12"
+				"name"			"TF2 Secondary"
+				"tall"			"14"
 				"weight"		"700"
 				"yres"			"480 599"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"TF2 Build"
-				"tall"			"14"
+				"name"			"TF2 Secondary"
+				"tall"			"16"
 				"weight"		"700"
 				"yres"			"600 767"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 			"3"
 			{
-				"name"			"TF2 Build"
-				"tall"			"15"
+				"name"			"TF2 Secondary"
+				"tall"			"17"
 				"weight"		"700"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"TF2 Build"
-				"tall"			"17"
+				"name"			"TF2 Secondary"
+				"tall"			"19"
 				"weight"		"700"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"TF2 Build"
-				"tall"			"22"
+				"name"			"TF2 Secondary"
+				"tall"			"24"
 				"weight"		"700"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 		}
 
