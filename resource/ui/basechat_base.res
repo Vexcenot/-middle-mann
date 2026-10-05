@@ -1,5 +1,4 @@
-
-"resource/ui/basechat.res"
+"Resource/UI/BaseChat.res"
 {
 	"HudChat"
 	{
@@ -7,11 +6,15 @@
 		"fieldName" 			"HudChat"
 		"visible" 				"1"
 		"enabled" 				"1"
+		"xpos"					"45"
+		"ypos"					"r250"
 		"wide"					"220"
 		"tall"					"100"
 		"PaintBackgroundType"	"0"
 	}
 	
+	
+
 	ChatInputLine
 	{
 		"ControlName"			"EditablePanel"
@@ -60,7 +63,7 @@
 		"enabled"				"1"
 		"labelText"				""
 		"textAlignment"			"south-west"
-		"font"					"ChatFont"
+		"font"					"Default"
 		"maxchars"				"-1"
 	}
 }

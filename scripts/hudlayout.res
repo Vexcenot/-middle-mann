@@ -6,5 +6,5 @@
 #base		"../customizations/transparent_viewmodels.res"
 
 #base		"../customizations/hud_crosshairs.res"
-#base		"../resource/ui/custom/master_hitmarkers.res"
+//#base		"../resource/ui/custom/master_hitmarkers.res"
 #base 		"hudlayout_base.res"

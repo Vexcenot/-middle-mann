@@ -1685,6 +1685,7 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
+
 		"xpos"			"-10"
 		"ypos"			"185"
 		"zpos"			"10"
@@ -1695,8 +1696,12 @@
 		"visible"		"0"
 		"enabled"		"1"
 
+		"xpos_//minmode"			"6"
+		"ypos_//minmode"			"220"
+		"tall_//minmode"			"0"
+
 		"render_texture"	"0"
-		"fov"			"20"
+		"fov"			"12"
 		"allow_rot"		"1"
 
 		"disable_speak_event"	"1"
@@ -1711,17 +1716,19 @@
 			"force_pos"	"1"
 
 			"angles_x" "0"
-			"angles_y" "200"
+			"angles_y" "172"
 			"angles_z" "0"
 			"origin_x" "200"
 			"origin_y" "0"
-			"origin_z" "-100"
+			"origin_z" "-60"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
 			"spotlight" "1"
 
 			"modelname"		""
+
+
 		}
 	}
 

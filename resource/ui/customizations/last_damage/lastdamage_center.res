@@ -11,7 +11,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"HudFontSmallerBold"
+		"font"					"HudFontSmallBold"
 		"fgcolor"				"255 255 0 255"
 	}
 
@@ -19,14 +19,14 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"DamageAccountValueShadow"
-		"xpos"					"-1"
+		"xpos"					"-2"
 		"ypos"					"-1"
 		"zpos"					"1"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"HudFontSmallerBold"
+		"font"					"HudFontSmallBold"
 		"fgcolor"				"Black"
 		"pin_to_sibling"		"DamageAccountValue"
 	}

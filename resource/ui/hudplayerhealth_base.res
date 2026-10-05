@@ -1,4 +1,4 @@
-"resource/ui/hudplayerhealth.res"
+"Resource/UI/HudPlayerHealth.res"
 //this da shit
 {
 	"HudPlayerHealth"
@@ -11,9 +11,9 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"HealthBonusPosAdj"	"60"
+		"HealthBonusPosAdj"	"0"
 		"HealthDeathWarning"	"0.49"
-		"HealthDeathWarningColor"	"HUDDeathWarning"
+		"HealthDeathWarningColor"	"238 33 46 255"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -54,16 +54,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"c-225"
-		"ypos"			"r51"
-		"wide"			"30"
-		"tall"			"30"
+		"xpos"			"c-228"
+		"ypos"			"rs1-18"
+		"wide"			"0"
 		"zpos"			"2"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
-
-
 	}
 	"PlayerStatusHealthValue"
 	{
@@ -122,8 +119,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"suckmydickvalve"
-		"xpos"	"100"
-		"ypos"	"c140"
+		"xpos"	"221"
+		"ypos"	"c-50"
 		"wide"	"0"
 		"tall"	"0"
 		"visible"	"1"
