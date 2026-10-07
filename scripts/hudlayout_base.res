@@ -223,7 +223,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-126"
-		"ypos"					"275"
+		"ypos"					"100"
 		"wide"					"252"
 		"tall"					"35"
 		"tall_minbad"			"28"

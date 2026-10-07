@@ -4,7 +4,8 @@
 {
 	HudItemEffectMeter
     {
-        "ypos"          "c140"  [$WIN32]   //c125 c143
+        "xpos"          "c-84"
+        "ypos"          "c75"  [$WIN32]   //c125 c143
     }
     "CritIcon"
     {

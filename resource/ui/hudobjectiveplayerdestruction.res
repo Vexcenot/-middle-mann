@@ -373,7 +373,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"EscrowRedShadow"
-				"xpos"			"161"
+				"xpos"			"160"
 				"ypos"			"8"
 				"zpos"			"400"
 				"wide"			"25"
