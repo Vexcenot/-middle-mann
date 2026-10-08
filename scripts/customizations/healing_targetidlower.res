@@ -2,6 +2,6 @@
 {
 	"CSecondaryTargetID"
 	{
-		"ypos"				"347"
+		"ypos"				"332"
 	}
 }

@@ -29,6 +29,7 @@
 
 		"ItemLabel"
 		{
+			"labelText"								"#TF_LessThan"
 			"xpos"									"9999"
 			"wide"									"0"
 			"alpha"									"0"
