@@ -35,12 +35,12 @@
 			"1"
 			{
 				"name"				"TF2 Secondary"
-				"tall"				"30"
+				"tall"				"38"
 				"tall_lodef"		"28"
 				"weight"			"500"
 				"additive"			"0"
 				"antialias"			"1"
-				"dropshadow"			"1"
+				"dropshadow"			"0"
 				"outline"			"0"
 
 			}
@@ -68,7 +68,7 @@
 			}
 			"2"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Verdana"
 				"tall"			"13" [$WIN32]
 				"tall"			"20" [$X360]
 				"weight"		"900"
@@ -77,7 +77,7 @@
 			}
 			"3"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -86,7 +86,7 @@
 			}
 			"4"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -95,7 +95,7 @@
 			}
 			"5"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Verdana"
 				"tall"			"9"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -103,69 +103,7 @@
 			}
 			"6"
 			{
-				"name"			"TF2 Secondary"
-				"tall"			"12"
-				"range"			"0x0000 0x00FF"
-				"weight"		"900"
-			}
-			"7"
-			{
-				"name"			"Arial"
-				"tall"			"12"
-				"range"			"0x0000 0x00FF"
-				"weight"		"800"
-			}
-		}
-		"DefaultTF2Build"
-		{
-			"1"
-			{
-				"name"			"TF2 Build"
-				"tall"			"18"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-			"2"
-			{
-				"name"			"TF2 Build"
-				"tall"			"13" [$WIN32]
-				"tall"			"20" [$X360]
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
-			}
-			"3"
-			{
-				"name"			"TF2 Build"
-				"tall"			"14"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
-				"antialias"		"1"
-			}
-			"4"
-			{
-				"name"			"TF2 Build"
-				"tall"			"20"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
-				"antialias"		"1"
-			}
-			"5"
-			{
-				"name"			"TF2 Build"
-				"tall"			"9"
-				"weight"		"900"
-				"range"			"0x0000 0x017F"
-				"antialias"		"1"
-			}
-			"6"
-			{
-				"name"			"TF2 Build"
+				"name"			"Verdana"
 				"tall"			"12"
 				"range"			"0x0000 0x00FF"
 				"weight"		"900"
@@ -182,7 +120,7 @@
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -190,7 +128,7 @@
 			}
 			"2"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -199,7 +137,7 @@
 			}
 			"3"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -208,7 +146,7 @@
 			}
 			"4"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -217,7 +155,7 @@
 			}
 			"5"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -226,7 +164,7 @@
 			}
 			"6"
 			{
-				"name"		"TF2 Build"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
