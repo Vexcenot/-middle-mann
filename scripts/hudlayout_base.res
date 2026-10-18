@@ -425,7 +425,7 @@
 		"LineSpacing"					"4"
 		"CornerRadius"					"3"
 		"RightJustify"					"1"
-		"TextFont"						"DefaultTF2Build"
+		"TextFont"						"Default"
 		"TeamBlue"						"HUDBlueTeamSolid"
 		"TeamRed"						"HUDRedTeamSolid"
 		"PurpleText"					"134 80 172 255"
@@ -787,36 +787,39 @@
 		"tall"				"120"
 		"tall_lodef"		"190"
 	}
-	"FreezePanel"
+	FreezePanel
 	{
-		"fieldName"		"FreezePanel"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
+		"fieldName"				"FreezePanel"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
 	}
-	"FreezePanelCallout"
+
+	FreezePanelCallout
 	{
-		"fieldName"		"FreezePanelCallout"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"200"
-		"ypos"			"200"
-		"wide"			"100"
-		"tall"			"50"
+		"fieldName"				"FreezePanelCallout"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"200"
+		"ypos"					"200"
+		"wide"					"100"
+		"tall"					"50"
 	}
-	"AnnotationsPanelCallout"
+
+	AnnotationsPanelCallout
 	{
-		"fieldName"		"AnnotationsPanelCallout"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"200"
-		"ypos"			"200"
-		"wide"			"100"
-		"tall"			"50"
+		"fieldName"			"AnnotationsPanelCallout"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"200"
+		"ypos"					"200"
+		"wide"					"100"
+		"tall"					"50"
 	}
+	
 	"AnnotationsPanel"
 	{
 	}

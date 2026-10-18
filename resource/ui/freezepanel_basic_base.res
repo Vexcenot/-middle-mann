@@ -169,45 +169,44 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r200"
-		"ypos"			"0"
-		"zpos"			"10"
+		"xpos"			"r199"
+		"ypos"			"-50"
+		"zpos"			"0"
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
-
-		"model_ypos"		"20"
+		
+		"model_ypos"		"10"
 		"model_center_x"	"1"
-		"model_wide"		"80"
-		"model_tall"		"50"
-
+		"model_wide"		"90"
+		"model_tall"		"60"
+		
 		"text_xpos"		"10"
 		"text_ypos"		"10"
 		"text_wide"		"170"
 		"text_center"	"1"
-
+		
 		"max_text_height"	"100"
 		"padding_height"	"10"
 		"resize_to_text"	"1"
 		"text_forcesize"	"2"
-
+		
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
 			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
-			"inventory_image_type" 				"1" // hq item models
 		}
-
+		
 		"ItemLabel"
-		{
+		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
 			"font"			"DefaultSmall"
 			"xpos"			"10"
-			"ypos"			"3"
+			"ypos"			"-100"
 			"zpos"			"1"
 			"wide"			"270"
 			"tall"			"9"
@@ -220,14 +219,14 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
-	}
+	}		
 
 	"FreezePanelBase"	[$WIN32]
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
 		"xpos"			"r270"
-		"ypos"			"93"
+		"ypos"			"-15"
 		"wide"			"267"
 		"tall"			"200"
 		"visible"		"1"
@@ -329,7 +328,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"NemesisSubPanel"
-			"xpos"			"0"		// FIXME
+			"xpos"			"63"		// FIXME
 			"ypos"			"130"
 			"zpos"			"4"
 			"wide"			"306"
@@ -385,7 +384,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"%nemesisname%"
-				"textAlignment"		"west"
+				"textAlignment"		"east"
 			}
 			"NemesisLabel2"
 			{
